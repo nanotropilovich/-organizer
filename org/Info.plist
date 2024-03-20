@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- Добавьте эти ключи и значения в ваш plist -->
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Это приложение использует микрофон для записи голосовых команд.</string>
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>Распознавание речи используется для преобразования голосовых команд в текст.</string>
+</dict>
+</plist>
